@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: zh-CN
-  baseUrl: localhost:8080
+  baseUrl: litaohz.github.io/notes
   ignorePatterns:
     - private
     - templates
